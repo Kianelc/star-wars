@@ -8,8 +8,8 @@
 
 # Build Setup
 
-# install dependencies
+### install dependencies
 $ npm install
 
-# serve with hot reload at localhost:3000
+### run the local server
 $ nodemon app.js
